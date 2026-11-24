@@ -1,0 +1,1 @@
+var e=`https://okvlndlivowaehjcccdm.supabase.co`,t=`eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9rdmxuZGxpdm93YWVoamNjY2RtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI5NjUwMjMsImV4cCI6MjEwODU0MTAyM30.iC8dDe0oTWQ8GeJVTZnv5BQstguZxeg_6OXtcpALX5E`,n=`phc_rY3GUucWvHzfcP9oJdDSv4VheCAn7zXr2dGmj4VdKUsj`;export{t as n,e as r,n as t};
